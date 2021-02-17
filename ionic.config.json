@@ -1,0 +1,7 @@
+{
+  "name": "myFirstAndroidProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
